@@ -1,5 +1,6 @@
 
 App description
+
 This is a mobile application built using the MVVM (Model-View-ViewModel) architecture that fetches and displays news articles from the News API. 
 The application demonstrates clean and scalable code organization, following MVVM principles
 
